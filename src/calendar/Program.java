@@ -26,6 +26,7 @@ public class Program {
          data= cal.getTime();
          
          System.out.println(sdf.format(data));
+         System.out.println(data);
 	}
 
 }
